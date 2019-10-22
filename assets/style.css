@@ -60,7 +60,7 @@ div.column1 {
 }
 /*div for quote*/
 div .quote {
-	padding-top: 70px;
+	padding-top: 30px;
 	height: 200px;
 	margin: 0;
 	text-align: center;
@@ -81,8 +81,8 @@ div.column2 {
 }
 /*Styling Nelson's image*/
 .image {
-	height: 500px;
 	width: 100%;
+	height:auto;
 }
 /*Quick info div*/
 .quick_info {
